@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Lenuf Eninobor 👋
 
-<!--
-**lenufme/lenufme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cybersecurity Analyst
 
-Here are some ideas to get you started:
+I am an aspiring cybersecurity analyst committed to safeguarding organizations against evolving cyber threats. My experience includes conducting internal security audits, evaluating security controls using the NIST Cybersecurity Framework, and analyzing compliance requirements such as PCI DSS, GDPR, and SOC standards. I combine analytical problem-solving, attention to detail, and ethical responsibility to help organizations reduce risk, protect sensitive data, and maintain secure operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 Skills
+- Security Auditing
+- Risk Assessment
+- Compliance Analysis
+- NIST Cybersecurity Framework
+- Governance & Risk Management
+
+---
+
+## 📂 Featured Project
+➡️ Internal Security Audit — NIST CSF (see repositories below)
